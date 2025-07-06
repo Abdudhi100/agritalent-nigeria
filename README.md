@@ -1,6 +1,6 @@
 # AgriTalent Nigeria 🌾
 
-AgriTalent Nigeria is a full-stack agricultural talent-matching platform that connects:
+**AgriTalent Nigeria** is a full-stack agricultural talent-matching platform that connects:
 - ✅ Farms with skilled and rural labor
 - ✅ Farm Managers for daily activity tracking
 - ✅ Academic Consultants for expert support
@@ -10,7 +10,7 @@ It brings together employment, data logging, and geospatial technology into one 
 
 ---
 
-🎯 Core Features
+## 🎯 Core Features
 
 - 🧾 Role-based user system (JWT Auth)
 - 🏡 Farm creation and profile management
@@ -22,7 +22,7 @@ It brings together employment, data logging, and geospatial technology into one 
 
 ---
 
-💻 Tech Stack
+## 💻 Tech Stack
 
 | Layer        | Tech                                    |
 |--------------|-----------------------------------------|
@@ -35,7 +35,7 @@ It brings together employment, data logging, and geospatial technology into one 
 
 ---
 
-🗓️ 30-Day MVP Plan
+## 🗓️ 30-Day MVP Plan
 
 - **Week 1**: Backend setup with models & endpoints
 - **Week 2**: Frontend (React + Auth + Dashboard)
@@ -44,7 +44,7 @@ It brings together employment, data logging, and geospatial technology into one 
 
 ---
 
-🚀 Goals
+## 🚀 Goals
 - Help modernize rural agriculture hiring
 - Support farm transparency & data collection
 - Offer job access to rural youth and graduates
@@ -52,11 +52,11 @@ It brings together employment, data logging, and geospatial technology into one 
 
 ---
 
-📌 Status
+## 📌 Status
 > Currently in **MVP development** – follow progress and contribute!
 
 ---
 
- 👥 Contributors
+## 👥 Contributors
 - Dhikrullah Abdullah Ademola
 
